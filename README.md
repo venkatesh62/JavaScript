@@ -1,5 +1,5 @@
 # JavaScript
 
-# galler is week 2 assignment
+#  week 2 assignment is ## gallery.js
 
-# auto completion is week 4 assignment
+# week 4 assignment is ## autocomplection.js
